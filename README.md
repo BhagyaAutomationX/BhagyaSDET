@@ -192,7 +192,7 @@ Passion: Building Scalable Automation Frameworks
 # 👨‍💻 PORTFOLIO
 
 📌 GitHub Repositories
-👉 https://github.com/BhagyaQA-S?tab=repositories
+👉 [https://github.com/BhagyaAutomationX/BhagyaSDET]
 
 📌 Resume
 👉 https://drive.google.com/file/d/11jg7VYToy9tnnt1B2GNA5VThQgERE8eg/view?usp=drivesdk
