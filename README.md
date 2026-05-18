@@ -199,13 +199,13 @@ Passion: Building Scalable Automation Frameworks
 
 ---
 
-# ⚡ DEVELOPER QUOTE
+# ⚡ QA ENGINEER QUOTE
 
 <div align="center">
 
-## “Quality Assurance is not about finding bugs.
+## ““Software QA is not about breaking applications —
 
-## It is about building confidence in software.”
+## it is about building trust before users ever touch the product.””
 
 </div>
 
