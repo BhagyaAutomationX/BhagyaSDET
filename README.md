@@ -173,15 +173,15 @@ Passion: Building Scalable Automation Frameworks
 
 <div align="center">
 
-<a href="https://github.com/BhagyaQA-S">
+<a href="https://github.com/BhagyaAutomationX/BhagyaSDET">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/bhagyashri-shastrakar-78abb426a">
+<a href="www.linkedin.com/in/bhagya-shastrakar-a7956740b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:bhagyashastrakar95@gmail.com">
+<a href="mailto:bhagyashastrakar1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -192,7 +192,7 @@ Passion: Building Scalable Automation Frameworks
 # 👨‍💻 PORTFOLIO
 
 📌 GitHub Repositories
-👉 [https://github.com/BhagyaAutomationX/BhagyaSDET]
+👉 https://github.com/BhagyaAutomationX/BhagyaSDET
 
 📌 Resume
 👉 https://drive.google.com/file/d/11jg7VYToy9tnnt1B2GNA5VThQgERE8eg/view?usp=drivesdk
