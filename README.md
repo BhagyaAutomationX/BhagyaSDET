@@ -195,7 +195,7 @@ Passion: Building Scalable Automation Frameworks
 👉 https://github.com/BhagyaAutomationX/BhagyaSDET
 
 📌 Resume
-👉 https://drive.google.com/file/d/11jg7VYToy9tnnt1B2GNA5VThQgERE8eg/view?usp=drivesdk
+👉 https://drive.google.com/file/d/1B1N00NFDMaxLqFNGPYHtE-W-lJaPyzIS/view?usp=drivesdk
 
 ---
 
